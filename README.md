@@ -1,7 +1,7 @@
 # test-3d-viewer
 
-run `npm run build` to build the app
-run `npm start` to launch built app in browser http://localhost:8080/
+- run `npm run build` to build the app
+- run `npm start` to launch built app in browser http://localhost:8080/
 
 ## TODOs
 
