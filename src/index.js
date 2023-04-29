@@ -2,8 +2,6 @@ import * as THREE from 'three';
 import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls';
 import { OBJLoader } from 'three/examples/jsm/loaders/OBJLoader';
 
-new OBJLoader(THREE);
-
 const canvas = document.querySelector('#canvas');
 canvas.width = window.innerWidth - 20;
 canvas.height = window.innerHeight - 20;
